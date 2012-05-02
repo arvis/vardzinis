@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Vārdzinis!</string>
+    <string name="app_name">Vardzinis</string>
+    <string name="guess_word">Pasaki vārdu!</string>
+    <string name="know">Zinu!</string>
+    <string name="dont_know">Nezinu!</string>
+    
+    <string name="results_title">Rezultāti</string>
+    <string name="correct_title">Pareizās atbildes: </string>
+    <string name="incorrect_title">Nepareizās atbildes: </string>
+    <string name="new_game">Jauna spēle</string>
+    <string name="restart">Vēlreiz</string>
+
+</resources>
